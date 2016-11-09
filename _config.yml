@@ -47,17 +47,17 @@ roles:
    end: 2015
    employer: AMP
    description: A range of functional and technical roles, primarily working on client sites in Financial Services.
-   title: Senior Developer/Lead
+  - title: Senior Developer/Lead
      start: 2015
      end: 2015
      employer: Pickles Auctions
      description: A range of functional and technical roles, primarily working on client sites in Financial Services.
-     title: Senior Developer
+   - title: Senior Developer
        start: 2015
        end: 2015
        employer: Yum Brands
        description: A range of functional and technical roles, primarily working on client sites in Financial Services.
-        title: Senior Consultant
+    - title: Senior Consultant
           start: 2015
           end: 2015
           employer: TCS Australia
