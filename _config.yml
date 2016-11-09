@@ -36,17 +36,32 @@ roles:
    start: 2016
    end: Ongoing
    employer: Telstra
-   description: Telstra is Australia’s leading telecommunications and technology company, offering a full range of communications services and competing in all telecommunications markets.
+   description: Telstra is Australia’s leading telecommunications and technology company, offering a full range of communications services and competing in all telecommunications markets. At Telstra, I am working in the SHOP team which manages the website offering of mobile plans and services.
  - title: Senior Consultant
    start: 2016
    end: 2016
    employer: GliNTech
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
+   description:
+ - title: Senior Consultant
+   start: 2015
+   end: 2015
+   employer: AMP
    description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   title: Senior Developer/Lead
+     start: 2015
+     end: 2015
+     employer: Pickles Auctions
+     description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+     title: Senior Developer
+       start: 2015
+       end: 2015
+       employer: Yum Brands
+       description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+        title: Senior Consultant
+          start: 2015
+          end: 2015
+          employer: TCS Australia
+          description: A range of functional and technical roles, primarily working on client sites in Financial Services.
 
 #Education is required
 education:
