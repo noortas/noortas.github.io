@@ -41,27 +41,27 @@ roles:
    start: 2016
    end: 2016
    employer: GliNTech
-   description:
+   description: something
  - title: Senior Consultant
    start: 2015
    end: 2015
    employer: AMP
    description: A range of functional and technical roles, primarily working on client sites in Financial Services.
-  - title: Senior Developer/Lead
-     start: 2015
-     end: 2015
-     employer: Pickles Auctions
-     description: A range of functional and technical roles, primarily working on client sites in Financial Services.
-   - title: Senior Developer
-       start: 2015
-       end: 2015
-       employer: Yum Brands
-       description: A range of functional and technical roles, primarily working on client sites in Financial Services.
-    - title: Senior Consultant
-          start: 2015
-          end: 2015
-          employer: TCS Australia
-          description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+ - title: Senior Developer/Lead
+   start: 2015
+   end: 2015
+   employer: Pickles Auctions
+   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+ - title: Senior Developer
+   start: 2015
+   end: 2015
+   employer: Yum Brands
+   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+ - title: Senior Consultant
+   start: 2015
+   end: 2015
+   employer: TCS Australia
+   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
 
 #Education is required
 education:
@@ -69,8 +69,6 @@ education:
    date: 1997
    subject: Electronics & Communication Engineering
    school: Bharathiar University
-
-
 
 #List of interesting Github repo/projects to include - optional
 github:
