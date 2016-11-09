@@ -65,23 +65,12 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Bachelor of Engineering
+   date: 1997
+   subject: Electronics & Communication Engineering
+   school: Bharathiar University
 
-#This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+
 
 #List of interesting Github repo/projects to include - optional
 github:
