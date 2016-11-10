@@ -40,7 +40,7 @@ roles:
  - title: Senior Consultant
    start: 2016
    end: 2016
-   employer: GliNTech
+   employer: GliNTech (Client - Cochlear)
    description: GLiNTECH is an Australian IT services provider for Enterprise clients. I was working for Cochlear, a medical devices company for ear implants in thier identity migration project from TIM/TAM to Salesforce.
  - title: Senior Consultant
    start: 2015
@@ -48,19 +48,19 @@ roles:
    employer: AMP
    description: AMP is a Financial services company in Australia and New Zealand. I was working in thier digital team with thier range of online portals especially in super-annuation and other portfolios.
  - title: Senior Developer/Lead
-   start: 2015
+   start: 2010
    end: 2015
    employer: Pickles Auctions
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   description: Pickles Auctions, is an Australian company specialising in auctions and valuations. I was working in the online auctions system.
  - title: Senior Developer
-   start: 2015
-   end: 2015
-   employer: Yum Brands
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   start: 2009
+   end: 2010
+   employer: Yum Brands!
+   description: A Fortune 500 corporation, Yum operates the licensed brands Taco Bell, KFC, Pizza Hut, and WingStreet worldwide. I was working on thier online franchisee system.
  - title: Senior Consultant
-   start: 2015
-   end: 2015
-   employer: TCS Australia.
+   start: 2008
+   end: 2009  
+   employer: TCS Australia (Client - Woolworths)
    description: A range of functional and technical roles, primarily working on client sites in Financial Services.
 
 #Education is required
