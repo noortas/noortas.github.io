@@ -85,7 +85,8 @@ apps:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring Boot, Microservices technology Architecture. <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework . I have worked with client side technology, having used AngularJS,jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management, agile practices, sprints and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
+   <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring Boot, Microservices technology Architecture. <br/><br/>
+   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework . I have worked with client side technology, having used AngularJS,jQuery, Bootstrap, and have also experimented with other interesting technologies such as React/Polymer/Backbone/Underscore/Require.<br/><br/>
+   <strong>Development Control</strong>: I have a good knowledge of sprints, application life-cycle management, agile practices, and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/Parse. <br/><br/>
+   <strong>Start Up</strong>: I am equally excited about start up ventures, lean development, sprints etc and follow the new methodologies, trends and technologies.<br/><br/>
