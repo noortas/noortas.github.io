@@ -73,6 +73,8 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - noortas/bluetooth
+ - noortas/Beacon
+ - noortas/houndBeaconScanner
 
 #Mobile apps section is optional
 apps:
