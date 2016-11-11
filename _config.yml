@@ -74,9 +74,9 @@ education:
 github:
  - noortas/bluetooth
  - noortas/Beacon
- - noortas/houndBeaconScanner
+ - noortas/houndBeaconScanner git status
 
- #Mobile apps section is optional
+#Mobile apps section is optional
  apps:
   - name: MakeMyHajj
     platform: Android
