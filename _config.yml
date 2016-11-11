@@ -73,6 +73,16 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - noortas/bluetooth
+ - noortas/Beacon
+ - noortas/houndBeaconScanner
+
+ #Mobile apps section is optional
+ apps:
+  - name: MakeMyHajj
+    platform: Android
+    url: https://play.google.com/apps/testing/com.ionicframework.makemyhajj625561
+    description: A pilgrims app -still in very early stages in development
+
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
