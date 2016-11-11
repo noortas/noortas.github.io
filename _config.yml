@@ -70,12 +70,6 @@ education:
    subject: Electronics & Communication Engineering
    school: Bharathiar University
 
-#List of interesting Github repo/projects to include - optional
-github:
- - noortas/bluetooth
- - noortas/Beacon
- - noortas/houndBeaconScanner git status
-
 #Mobile apps section is optional
  apps:
   - name: MakeMyHajj
