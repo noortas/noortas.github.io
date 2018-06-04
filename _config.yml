@@ -17,6 +17,11 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
+ - DevOps
+ - Ansible
+ - Docker
+ - Kubernetes
+ - CI/CD
  - Spring MVC
  - Spring Boot
  - AngularJS
